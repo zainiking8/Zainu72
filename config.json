@@ -16,8 +16,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Silly-B",
-    "PREFIX": "+",
+    "BOTNAME": "Rizzu",
+    "PREFIX": "/",
     "ADMINBOT": [
         "100040426712109"
     ],
